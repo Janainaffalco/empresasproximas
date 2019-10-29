@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalizadorAmigosWebApp", "LocalizadorAmigosWebApp\LocalizadorAmigosWebApp.csproj", "{CE8C46AE-707C-4D35-9188-E756D38DDEDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplicacao", "Aplicacao", "{87852C1A-15E8-40B6-85A7-B48BC116E124}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apresentacao", "Apresentacao", "{0FC0278B-8DC5-4358-8C67-F4C9B4BAE4DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Seguranca", "Seguranca", "{146E9F96-A9A1-4512-821A-9B132F587F24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestrutura", "Infraestrutura", "{2D2F80CF-7751-4EE8-826A-973834441F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE8C46AE-707C-4D35-9188-E756D38DDEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8C46AE-707C-4D35-9188-E756D38DDEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8C46AE-707C-4D35-9188-E756D38DDEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8C46AE-707C-4D35-9188-E756D38DDEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CE8C46AE-707C-4D35-9188-E756D38DDEDD} = {87852C1A-15E8-40B6-85A7-B48BC116E124}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0163635E-C632-4207-8E5D-B5CF2A376B34}
+	EndGlobalSection
+EndGlobal

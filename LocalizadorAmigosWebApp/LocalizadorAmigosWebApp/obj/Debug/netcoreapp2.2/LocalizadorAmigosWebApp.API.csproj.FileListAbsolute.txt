@@ -1,0 +1,14 @@
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\bin\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.deps.json
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\bin\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.runtimeconfig.json
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\bin\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.runtimeconfig.dev.json
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\bin\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.dll
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\bin\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.pdb
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\obj\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.csproj.CoreCompileInputs.cache
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\obj\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.RazorAssemblyInfo.cache
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\obj\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.RazorAssemblyInfo.cs
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\obj\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.AssemblyInfoInputs.cache
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\obj\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.AssemblyInfo.cs
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\obj\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\obj\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.dll
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\obj\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.pdb
+C:\Users\edcg\source\repos\LocalizadorAmigosProximos\LocalizadorAmigosWebApp\LocalizadorAmigosWebApp\obj\Debug\netcoreapp2.2\LocalizadorAmigosWebApp.API.csprojAssemblyReference.cache
