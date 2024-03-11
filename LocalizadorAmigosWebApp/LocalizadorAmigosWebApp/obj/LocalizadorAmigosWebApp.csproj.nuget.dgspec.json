@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edcg\\source\\repos\\LocalizadorAmigosProximos\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp.csproj": {}
+    "C:\\Users\\Janaina Falco\\Documents\\APP ANP\\LocalizadorAmigosProximos\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edcg\\source\\repos\\LocalizadorAmigosProximos\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp.csproj": {
+    "C:\\Users\\Janaina Falco\\Documents\\APP ANP\\LocalizadorAmigosProximos\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edcg\\source\\repos\\LocalizadorAmigosProximos\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Janaina Falco\\Documents\\APP ANP\\LocalizadorAmigosProximos\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp.csproj",
         "projectName": "LocalizadorAmigosWebApp",
-        "projectPath": "C:\\Users\\edcg\\source\\repos\\LocalizadorAmigosProximos\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp.csproj",
-        "packagesPath": "C:\\Users\\edcg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edcg\\source\\repos\\LocalizadorAmigosProximos\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp\\obj\\",
+        "projectPath": "C:\\Users\\Janaina Falco\\Documents\\APP ANP\\LocalizadorAmigosProximos\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp.csproj",
+        "packagesPath": "C:\\Users\\Janaina Falco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Janaina Falco\\Documents\\APP ANP\\LocalizadorAmigosProximos\\LocalizadorAmigosWebApp\\LocalizadorAmigosWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\edcg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Janaina Falco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -36,10 +37,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -60,10 +67,17 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
